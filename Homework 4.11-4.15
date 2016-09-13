@@ -1,0 +1,17 @@
+4.11
+ 1.Dividing two integers results in integer division---any  fractional part of the calculation is truncated(i.e., Lost). To avoid this you can use the Point or Double , also Bigdecimal.
+4.12
+2.Nesting one control statement within another-one control statement appears inside another.
+   Control statement stacking- connect the end point of one statement to the entry point of another.
+4.13
+ Counter controlled repetition works for integers 0-100, This technique uses a variable called counter (or control variable) to control the number of times a set of statements will execute.
+   Sentinel-controlled repetition is often called indefinite repetition because the number of repetitions is not known before the loop begins executing.
+     One way to solve this problem is to use a special value called a sentinel value (also called a signal value, a dummy value or a flag value) to indicate "end of data entry."
+   The user can input grades until all legitimate numbers are entered.
+4.14
+ x=y++ = 3  x = ++y = 4
+4.15
+a. if marks>= 50;
+b.
+c.while (x <= 100);
+d.while (z <= 5);
